@@ -3,6 +3,7 @@ title: "Starbucks Capstone Challenge"
 date: 2024-07-30
 ---
 
+![alt text](https://github.com/fatinshariff/skills-github-pages/_images/output_110_0.png?raw=true)
 
 # Starbucks Capstone Challenge
 
