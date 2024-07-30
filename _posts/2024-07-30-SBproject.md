@@ -1,11 +1,8 @@
 ---
-title: "Starbucks Capstone Challenge"
+title: "Udacity Starbucks Capstone Challenge"
 date: 2024-07-30
 ---
-
-https://github.com/fatinshariff/skills-github-pages/_images/output_110_0.png](https://github.com/fatinshariff/skills-github-pages/blob/main/images/output_110_0.png)?raw=true
-
-# Starbucks Capstone Challenge
+![alt text](https://www.rd.com/wp-content/uploads/2019/01/starbucks-sign.jpg?fit=700%2C1024)SAUL LOEB/GETTY IMAGES
 
 ### Introduction
 
@@ -1748,7 +1745,7 @@ plt.legend(bbox_to_anchor=(1.05, 1),loc='upper left', borderaxespad=0.);
 
 
     
-![png](output_71_0.png)
+![images](output_71_0.png)
     
 
 
