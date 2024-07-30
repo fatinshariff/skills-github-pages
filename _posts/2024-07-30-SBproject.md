@@ -2,7 +2,7 @@
 title: "Udacity Starbucks Capstone Challenge"
 date: 2024-07-30
 ---
-![alt text](https://www.rd.com/wp-content/uploads/2019/01/starbucks-sign.jpg?fit=700%2C1024)SAUL LOEB/GETTY IMAGES
+![alt text](https://github.com/fatinshariff/skills-github-pages/blob/main/images/SB_profile.png?raw=true)
 
 ### Introduction
 
